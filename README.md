@@ -5,6 +5,7 @@ The notes are written in a simple way with examples for practice.
 
 ## Topics
 - Introduction to Git & GitHub
+- Git & GitHub Key Terms
 - Installation & Setup
 - Basic Git Commands
 - Working with Repositories
